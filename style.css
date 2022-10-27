@@ -59,11 +59,12 @@
     color: #fff;
     margin: 1rem 0;
     font-weight: 600;
+    
+    cursor: pointer;
 }
 
 .title:hover {
     color: #25ffff;
-    cursor: pointer;
 }
 
 .subtitle {
